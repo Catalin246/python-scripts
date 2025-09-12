@@ -5,6 +5,6 @@
 `python script-name.py`
 
 https://www.w3schools.com/python/python_syntax.asp
-Next chapter: Strings
+Next chapter: Strings - Modify Strings
 
 https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/

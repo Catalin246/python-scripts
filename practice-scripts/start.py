@@ -18,3 +18,6 @@
 # Julia: nothing
 # Nim: none(int) (See options)
 # C++: std::nullopt
+
+b = "Hello, World!"
+print(b[-5:-2])
